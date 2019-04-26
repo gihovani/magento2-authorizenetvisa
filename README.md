@@ -15,3 +15,9 @@ $ modman clone https://github.com/gihovani/magento2-authorizenetvisa.git
 ### Authors
 
 * Gihovani Demetrio
+
+### Keys
+```
+API KEY: U8IFMLSF7FPS9YGOGS3X21NN3AHdIYgsSElZdthygqoKYaebw
+SHARED KEY: 9YzHezXbXybNM58CmobRPtq$E@@/L$UOQS2s5XVu
+```
